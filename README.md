@@ -28,6 +28,14 @@
 
 ---
 
+## 🔍 Highlighted Pull Requests  
+
+**[View me and my team Contributions in .NET MAUI Repository](https://github.com/dotnet/maui/pulls?q=is%3Apr+is%3Aclosed+label%3Aarea-testing+label%3Apartner%2Fsyncfusion+created%3A2024-11-01..2025-11-07+sort%3Acreated-asc)**  
+
+> _Note: My PRs now appear under the **ghost** author due to my previous Syncfusion GitHub account being deactivated. The PRs remain verifiable in the public [.NET MAUI repository](https://github.com/dotnet/maui)._  
+
+---
+
 ## ⚙️ Major Technical Contributions  
 
 ### 1. Leanrned Test Infrastructure for .NET MAUI    
@@ -44,7 +52,7 @@
 - Developed helper libraries for better logging, element tracing, and recovery from test interruptions.  
 - Reduced **flaky test failure rate**, improving overall CI throughput and confidence in PR validation.  
 
-### 🧪 4. Feature Matrix test cases for all MAUI Controls, Layouts. 
+### 4. Feature Matrix test cases for all MAUI Controls, Layouts. 
 - Pepared a testbed sample to integrate all the APIs and wrote UI test cases with all possible APIs combinations.   
 
 ---
@@ -55,11 +63,10 @@
 |-----------|--------------------|
 | **Languages** | C#, XAML |
 | **Testing Frameworks** | Appium, NUnit, MAUI Test Harness |
-| **Legacy Tools Migrated** | Xamarin.UITest |
 | **CI/CD Pipelines** | Azure DevOps, GitHub Actions |
 | **Testing Scope** | Unit Tests, Device Tests, UI Tests |
 | **Platforms** | Android, iOS, Windows, macOS |
-| **Collaboration** | Microsoft .NET MAUI Open-Source Team |
+| **Collaboration** | Syncufsion - Microsoft .NET MAUI Open-Source Team |
 
 ---
 
@@ -69,14 +76,6 @@
 - Enhanced **pipeline reliability** and **cross-platform coverage**, contributing to the long-term sustainability of automated validation for MAUI.  
 - Improved **diagnostic capabilities**, helping identify real infrastructure issues versus framework regressions.  
 - Recognized within Syncfusion for **engineering excellence in test systems** and collaboration with Microsoft maintainers.  
-
----
-
-## 🔍 Highlighted Pull Requests  
-
-**[View me and my team Contributions in .NET MAUI Repository](https://github.com/dotnet/maui/pulls?q=is%3Apr+is%3Aclosed+label%3Aarea-testing+label%3Apartner%2Fsyncfusion+created%3A2024-11-01..2025-11-07+sort%3Acreated-asc)**  
-
-> _Note: My PRs now appear under the **ghost** author due to my previous Syncfusion GitHub account being deactivated. The PRs remain verifiable in the public [.NET MAUI repository](https://github.com/dotnet/maui)._  
 
 ---
 
@@ -90,14 +89,10 @@
 
 ## 👤 Author  
 
-**Name:** Anandhan R  
+**Name:** Anandhan Rajagopal 
 **Email:** [raja.anand2k@gmail.com]  
 **LinkedIn:** [linkedin.com/in/anandhan-rajagopal](www.linkedin.com/in/anandhan-rajagopal)  
 **Portfolio:** [github.com/AnandhanRajagopal](https://github.com/AnandhanRajagopal)  
 
 ---
-
----
-
-> 💬 *Even though my GitHub contributions now appear as “ghost,” these pull requests and merged commits remain visible in the public repository history and can be verified via PR numbers and commit messages.*
 
