@@ -92,8 +92,8 @@
 
 **Name:** Anandhan R  
 **Email:** [raja.anand2k@gmail.com]  
-**LinkedIn:** [linkedin.com/in/anandhanr](www.linkedin.com/in/anandhan-rajagopal)  
-**Portfolio:** [github.com/anandhanr]()  
+**LinkedIn:** [linkedin.com/in/anandhan-rajagopal](www.linkedin.com/in/anandhan-rajagopal)  
+**Portfolio:** [github.com/AnandhanRajagopal](https://github.com/AnandhanRajagopal)  
 
 ---
 
