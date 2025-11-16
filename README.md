@@ -1,6 +1,6 @@
 # 🌐 Open Source Contributions to .NET MAUI (via Syncfusion + Microsoft Collaboration)
 
-> **Note:** These contributions were made during my tenure at **Syncfusion** as part of our collaboration with **Microsoft** to enhance and stabilize the [.NET MAUI](https://github.com/dotnet/maui) framework.  
+These contributions were made during my tenure at **Syncfusion** as part of [our collaboration](https://www.syncfusion.com/explore/microsoft-collaboration/) with **Microsoft** to enhance and stabilize the [.NET MAUI](https://github.com/dotnet/maui) framework.  
 > My previous GitHub account was managed under the company domain and has since been deactivated, resulting in these PRs now appearing under the user **ghost**.  
 > This document highlights my verified work history and merged PRs.
 
@@ -10,7 +10,7 @@
 
 - **Project:** [.NET MAUI](https://github.com/dotnet/maui)
 - **Organization:** Syncfusion ([As Microsoft External Partner](https://devblogs.microsoft.com/dotnet/dotnet-maui-welcomes-syncfusion-open-source-contributions/))
-- **Duration:** November 2024 – September 2025
+- **Duration:** November 2024 – August 2025
 - **Role:** Team Lead/Senior Software Engineer
 - **Contributions:** 100+ Pull Requests, 100+ Issue Verifications
 - **Team Size:** 5 Engineers
@@ -21,10 +21,10 @@
 
 - Acted as a **bridge between development and testing**, focusing on the **design, reliability, and infrastructure** of the automated testing ecosystem for **.NET MAUI**.  
 - Led a **team of five engineers**, providing technical guidance and approving contributions related to device, unit, and UI test automation.  
-- Contributed not only to test implementation but also to the **core test framework development**, **Appium migration tools**, and **infrastructure scripts** used in CI/CD.  
+- Fixing flaky CI tests promptly and write feature matrix tests for all .NET MAUI controls—ensuring cross-platform consistency and full coverage.
 - **Verified open GitHub issues** by reproducing them on both the reported and latest MAUI builds, updating issue threads with detailed technical feedback.  
 - Collaborated closely with **Microsoft engineers** to ensure stability in test runs across multiple platforms (Android, iOS, Windows, macOS).  
-- Conducted reviews and validations for **Pull Requests (PRs)** to maintain consistency, quality, and performance across testing pipelines.  
+- Conducted reviews and validations for **Pull Requests (PRs)** to maintain consistency, quality, and performance.  
 
 ---
 
@@ -53,7 +53,8 @@
 - Reduced **flaky test failure rate**, improving overall CI throughput and confidence in PR validation.  
 
 ### 4. Feature Matrix test cases for all MAUI Controls, Layouts. 
-- Pepared a testbed sample to integrate all the APIs and wrote UI test cases with all possible APIs combinations.   
+- Pepared a testbed sample to integrate all the APIs and wrote UI test cases with all possible APIs combinations.
+
 
 ---
 
@@ -62,7 +63,7 @@
 | Category | Tools / Frameworks |
 |-----------|--------------------|
 | **Languages** | C#, XAML |
-| **Testing Frameworks** | Appium, NUnit, MAUI Test Harness |
+| **Testing Frameworks** | Appium, NUnit, XUnit |
 | **CI/CD Pipelines** | Azure DevOps, GitHub Actions |
 | **Testing Scope** | Unit Tests, Device Tests, UI Tests |
 | **Platforms** | Android, iOS, Windows, macOS |
@@ -74,7 +75,7 @@
 
 - Strengthened the **.NET MAUI test infrastructure** used by Microsoft and open-source contributors.  
 - Enhanced **pipeline reliability** and **cross-platform coverage**, contributing to the long-term sustainability of automated validation for MAUI.  
-- Improved **diagnostic capabilities**, helping identify real infrastructure issues versus framework regressions.  
+- Improved **diagnostic capabilities**, helping identify real infrastructure issues.  
 - Recognized within Syncfusion for **engineering excellence in test systems** and collaboration with Microsoft maintainers.  
 
 ---
